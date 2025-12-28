@@ -410,6 +410,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspired by scikit-learn's KNeighborsClassifier
 - HNSW algorithm based on hnswlib
 - Distance metrics optimized using NumPy vectorization
-```
-
-You can copy the above Markdown content directly into your documentation file, such as `README.md`.
